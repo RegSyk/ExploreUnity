@@ -1,0 +1,20 @@
+{
+    "name": "Explore",
+    "rootNamespace": "Explore",
+    "references": [
+        "GUID:33759803a11f4d538227861a78aba30b",
+        "GUID:a686d6b022ed3d846b23732b5865b243",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:bd138c7a207f4ee4894d6faa1b365b8c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
